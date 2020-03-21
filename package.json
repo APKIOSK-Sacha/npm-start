@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "npm-start:npmStart"
   },
-  "repository": "https://github.com/atom/npm-start",
+  "repository": "https://github.com/APKIOSK-Sacha/npm-start",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
